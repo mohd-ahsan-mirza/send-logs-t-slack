@@ -1,6 +1,5 @@
 # Description
-I run `slack.sh` every minute on a server to send me logs on a slack channel for that minute. 
-
+I run `slack.sh` every minute on a server to send logs on a slack channel
 # Setup
 [Webhooks for slack](https://api.slack.com/incoming-webhooks)
 
