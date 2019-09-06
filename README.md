@@ -10,5 +10,5 @@ Also replace `{ABSOLUTE PATH TO LOGS}` with absolute to your logs
 
 Add the aboslute path to `slack.sh` in your cron scheduler using `crontab -e`. Ideally for every minute.
 
-Please note that the script only captures that have a timestamp.
+Please note that the script only capture logs that have a timestamp.
 
